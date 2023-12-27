@@ -1,9 +1,9 @@
-// 配置地址 -->https://gitea.com/18680363738/sunruiyang/raw/branch/main/qiaoj.json
-// 配置接口设定 --> clan://localhost/TVBox/qiaoj.json
-// "wallpaper": "https://picsum.photos/1080/",
-//"spider":"clan://TVBox/jar/07062.jar"
+// 配置地址 -->https://raw.githubusercontent.com/sumengjin/tvbox/main/1012.txt
+// 配置接口设定 --> clan://localhost/tvbox/1012.txt
+// "wallpaper": "https://picsum.photos/2160/3680/",
+//"spider":"clan://tvbox/jar/0723.jar"
 
-//https://raw.githubusercontents.com/FongMi/CatVodSpider/main/json/adult.json
+//https://raw.githubusercontent.com/sumengjin/tvbox/main/1012.txt
 
 {
  "spider":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;0555de475e5d35fba55d58abb5c4568e",
@@ -186,10 +186,10 @@
       "filterable": 1
     },
     {
-      "key": "madouse.la",
+      "key": "pornhub.com",
       "name": "成人01",
       "type": 1,
-      "api": "http://madouse.la/api.php/provide/vod/",
+      "api": "www.pornhub.com/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
