@@ -186,10 +186,10 @@
       "filterable": 1
     },
     {
-      "key": "pornhub.com",
-      "name": "成人01",
+      "key": "pornhub",
+      "name": "pornhub",
       "type": 1,
-      "api": "www.pornhub.com/api.php/provide/vod/",
+      "api": "http://www.pornhub.com/api.php/provide/vod/",
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1
